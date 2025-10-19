@@ -54,6 +54,6 @@ TIME_WAIT: The connection is fully closed, but the local socket waits briefly to
 
 CLOSE_WAIT: The remote host has closed its side, but the local application has not yet closed its socket. This often indicates a program error or application hang. (Potential Application Issue)
 
-Career Focus
+Career Focus 
 
 Understanding how $\text{TCP/IP}$ defines network traffic and using netstat to verify the state of that traffic on a host are foundational skills. This expertise is critical for identifying port conflicts, application binds, firewall blocks, or orphaned connections that degrade system performance.
