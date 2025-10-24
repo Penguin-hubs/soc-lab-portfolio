@@ -12,7 +12,9 @@ Concept: Every process is launched by a parent process. Malware often attempts t
 Test Chain: To validate functionality, a deliberate three-level execution chain was created:
 
    1-The user launched the Command Prompt (cmd.exe) from the desktop.
+   
    2-From within the cmd.exe window, the Notepad application (notepad.exe) was launched.
+   
 
 3. Analysis of Screenshot
 The resulting process tree clearly shows the expected execution flow:
