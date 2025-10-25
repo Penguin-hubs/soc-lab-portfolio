@@ -6,7 +6,6 @@ Attack: RDP Brute Force
 Tactic: Credential Access (T1110) 
 
 Description: An attacker attempts to gain unauthorized access to a system by systematically guessing
-
 login credentials over the Remote Desktop Protocol (port 3389/TCP) until a valid username/password combination is found. 
 Successful compromises grant the attacker immediate, interactive access to the host.
 
