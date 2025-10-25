@@ -20,7 +20,7 @@ Event ID: 4625 (An account failed to log on)
 
 Logon type: 10 (Remote Interactive), which confirms the RDP vector.
 
-Alert Condition: Excessive number of failures from the same Source IP within a limited time period (e.g., 100+ attempts within 5 minutes).
+Alert Condition: Excessive number of failures from the same Source IP within a limited time period (e.g : 100+ attempts within 5 minutes).
 
 
 3. Triage Procedure for Junior Analyst
